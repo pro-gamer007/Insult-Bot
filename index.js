@@ -94,3 +94,4 @@ client.snipes = new Map();
     gchannel.send(embed69)
 })*/
 client.login(process.env.TOKEN);
+NzMxNzg1Nzg5NTc4NTQzMTE1.XwrGoA.h7ASXCn3yD4jZEksoPnA8FnHg5o
